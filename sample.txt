@@ -1,1 +1,1 @@
-I installed GIT successfully.
+I installed my GIT successfully.
